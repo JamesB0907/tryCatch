@@ -1,0 +1,15 @@
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\bin\Debug\net7.0\tryCatch.exe
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\bin\Debug\net7.0\tryCatch.deps.json
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\bin\Debug\net7.0\tryCatch.runtimeconfig.json
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\bin\Debug\net7.0\tryCatch.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\bin\Debug\net7.0\tryCatch.pdb
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.csproj.AssemblyReference.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.AssemblyInfoInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.AssemblyInfo.cs
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\refint\tryCatch.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.pdb
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\tryCatch.genruntimeconfig.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\tryCatch\obj\Debug\net7.0\ref\tryCatch.dll
